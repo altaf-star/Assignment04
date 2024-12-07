@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\bin\Debug\CricketTeamManager.exe.config
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\bin\Debug\CricketTeamManager.exe
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\bin\Debug\CricketTeamManager.pdb
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager_MarkupCompile.cache
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.g.resources
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.Properties.Resources.resources
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.exe
+C:\Users\Admin\source\repos\CricketTeamManager\CricketTeamManager\obj\Debug\CricketTeamManager.pdb
